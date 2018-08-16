@@ -1,0 +1,25 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Code base for various algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skadapure/Algorithms.git"
+  },
+  "author": "Shakti Kadapure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skadapure/Algorithms/issues"
+  },
+  "homepage": "https://github.com/skadapure/Algorithms#readme",
+  "dependencies": {
+    "jest": "^23.5.0"
+  },
+  "devDependencies": {
+    "ndb": "^1.0.23"
+  }
+}
